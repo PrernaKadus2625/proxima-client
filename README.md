@@ -2,7 +2,7 @@
 
 Proxima is a modern project management website built using the MERN stack, Context API, JWT, and TailwindCSS. With a sleek and intuitive interface, users can easily create, update, and delete their projects. Proxima also features a secure protected route in the frontend, ensuring user data remains safe and secure.
 
-## Features
+# Features
 
 Proxima comes packed with a variety of useful features, including:
 
